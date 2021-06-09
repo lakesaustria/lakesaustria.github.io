@@ -1,0 +1,627 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 28,
+    "features": [{
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324077",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.361810189180407, 48.279569692921164]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau, Höhe Segelhafen, rechts",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 21,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.2,
+            "SICHTTIEFE": 1.8,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324077,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324078",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.374612124488397, 48.2648623710353]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau, Höhe Grundwasserwerk, rechts",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 21,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.6,
+            "SICHTTIEFE": 1.8,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324078,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324079",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.392292019975606, 48.24773214779195]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau oberhalb Nordbahnbrücke, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 21,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 13.2,
+            "SICHTTIEFE": 2,
+            "ANZ_ECOLI": 45,
+            "ANZ_ENTEROKOKKEN": 30,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324079,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324080",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.416656467158976, 48.22621498376417]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau stromab Reichsbrücke, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.5,
+            "SICHTTIEFE": 4,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324080,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324081",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.433029412747445, 48.21545547552604]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau stromauf Wasserschilift, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.4,
+            "SICHTTIEFE": 4,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324081,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324082",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.455559004201866, 48.19967815401869]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau stromab Ostbahnbrücke, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14,
+            "SICHTTIEFE": 2,
+            "ANZ_ECOLI": 30,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324082,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324083",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.471714530840064, 48.18926404640157]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau stromab Steinspornbrücke, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.1,
+            "SICHTTIEFE": 2,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324083,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324084",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.49206425687979, 48.17618002705964]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau, Höhe Lobgrundstraße, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.9,
+            "SICHTTIEFE": 2.5,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324084,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324085",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.50639442130259, 48.16704950159057]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Neue Donau stromauf Wehr 2, links",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-24Z",
+            "WASSERTEMPERATUR": 14.9,
+            "SICHTTIEFE": 2.5,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 46,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324085,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324086",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.402097303326805, 48.24999321606459]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Angelibad",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 18.4,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324086,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324087",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.417921908442977, 48.24328314429294]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Strandbad Alte Donau",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 17.3,
+            "SICHTTIEFE": 2,
+            "ANZ_ECOLI": 30,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324087,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324088",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.428362962363416, 48.23205176125909]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Gänsehäufel - Weststrand",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 17.8,
+            "SICHTTIEFE": 1.5,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324088,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324089",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.433887502793585, 48.227955296945154]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Gänsehäufel - Oststrand",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 17.4,
+            "SICHTTIEFE": 1.8,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324089,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324090",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.432738393655843, 48.225276296947925]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Gänsehäufel -Südstrand",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 18.3,
+            "SICHTTIEFE": 1.3,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324090,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324091",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.421955457610665, 48.23192182483104]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Donau, Kaiserwasser",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 18.6,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 30,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324091,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324092",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.436077996505077, 48.219283971838465]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Untere Alte Donau (Badestege)",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 17.9,
+            "SICHTTIEFE": 3.4,
+            "ANZ_ECOLI": 15,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324092,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324093",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.45740491562235, 48.21232968951891]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Mühlwasser, Strandbad Stadlau",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/index.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 1,
+            "UNTERSUCHUNGSDATUM": "2021-05-31Z",
+            "WASSERTEMPERATUR": 18.3,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 45,
+            "ANZ_ENTEROKOKKEN": 15,
+            "TYP": 1,
+            "SE_SDO_ROWID": 1324093,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324094",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.430306967076255, 48.22046695331315]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Strombucht",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-11Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.4,
+            "ANZ_ECOLI": 36,
+            "ANZ_ENTEROKOKKEN": 30,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324094,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324095",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.474811122083246, 48.19543871349284]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Alte Naufahrt",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-17Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 59,
+            "ANZ_ENTEROKOKKEN": 42,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324095,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324096",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.48711437247038, 48.276262904294306]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Badeteich Süßenbrunn",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-05Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 11,
+            "ANZ_ENTEROKOKKEN": 28,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324096,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324097",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.478819717779267, 48.24392516685514]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Teich Hirschstetten",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-05Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1,
+            "ANZ_ECOLI": 308,
+            "ANZ_ENTEROKOKKEN": 68,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324097,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324098",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.477447452418186, 48.1905161972966]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Dechantlacke",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-18Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 387,
+            "ANZ_ENTEROKOKKEN": 38,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324098,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324099",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.487586666818917, 48.18072761471059]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Panozzalacke",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-18Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 3,
+            "ANZ_ENTEROKOKKEN": 24,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324099,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324100",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.470127934792636, 48.21006726062495]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Mühlwasser beim Schilfweg",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-19Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 14,
+            "ANZ_ENTEROKOKKEN": 64,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324100,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324101",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.478318609657194, 48.203986996213416]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Mühlwasser beim Biberhaufenweg",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-19Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 8,
+            "ANZ_ENTEROKOKKEN": 36,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324101,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324102",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.54100358314784, 48.181840931989]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Donau-Oder-Kanal Becken III",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-24Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 1,
+            "ANZ_ENTEROKOKKEN": 28,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324102,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324103",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.527540045445047, 48.17393207157458]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Donau-Oder-Kanal Becken II",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-24Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 5,
+            "ANZ_ENTEROKOKKEN": 30,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324103,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "BADESTELLENOGD.1324104",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.535563813821653, 48.20084424546174]
+        },
+        "geometry_name": "SHAPE",
+        "properties": {
+            "BEZEICHNUNG": "Stadler Furt",
+            "WEITERE_INFO": "http://www.wien.gv.at/forschung/laboratorien/umweltmedizin/wasserhygiene/badewasserqualitaet/natur.html",
+            "BEZIRK": 22,
+            "BADEQUALITAET": 0,
+            "UNTERSUCHUNGSDATUM": "2020-08-24Z",
+            "WASSERTEMPERATUR": null,
+            "SICHTTIEFE": 1.2,
+            "ANZ_ECOLI": 11,
+            "ANZ_ENTEROKOKKEN": 30,
+            "TYP": 2,
+            "SE_SDO_ROWID": 1324104,
+            "SE_ANNO_CAD_DATA": null
+        }
+    }],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
