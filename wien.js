@@ -77,3 +77,11 @@ for (let config of OGDWIEN) {
 
 // Leaflet hash
 L.hash(map);
+
+// Minimap
+var miniMap = new L.Control.MiniMap(
+    L.tileLayer.provider("BasemapAT.grau"), {
+        toggleDisplay: true,
+        minimized: false
+    }
+).addTo(map);
