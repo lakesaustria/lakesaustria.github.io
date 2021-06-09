@@ -16,7 +16,7 @@ let baselayers = {
 let map = L.map("map", {
     fullscreenControl: true,
     center: [47.59397, 14.12456],
-    zoom: 8,
+    zoom: 7,
     layers: [
         baselayers.grau
     ]
