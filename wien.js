@@ -2,7 +2,7 @@ let basemapGray = L.tileLayer.provider('BasemapAT.grau');
 
 let overlays = {
     bathingSpot: L.featureGroup(),
-    bbqArea: L.featureGroup()
+    bbqArea: L.markerClusterGroup()
 };
 
 let map = L.map("map", {
