@@ -74,3 +74,6 @@ for (let config of OGDWIEN) {
             }
         })
 }
+
+// Leaflet hash
+L.hash(map);
