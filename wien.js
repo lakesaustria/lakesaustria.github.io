@@ -1,7 +1,8 @@
 let basemapGray = L.tileLayer.provider('BasemapAT.grau');
 
 let overlays = {
-    bathingSpot: L.featureGroup()
+    bathingSpot: L.featureGroup(),
+    bbqArea: L.featureGroup()
 };
 
 let map = L.map("map", {
@@ -17,10 +18,12 @@ let map = L.map("map", {
 let layerControl = L.control.layers({
     "BasemapAT.grau": basemapGray
 }, {
-    "Badestelle": overlays.bathingSpot
+    "Badestelle": overlays.bathingSpot,
+    "Grillplatz": overlays.bbqArea
 }).addTo(map);
 
 overlays.bathingSpot.addTo(map);
+overlays.bbqArea.addTo(map);
 
 let drawBathingSpot = (geojsonData) => {
     L.geoJson(geojsonData, {
@@ -39,12 +42,30 @@ let drawBathingSpot = (geojsonData) => {
     }).addTo(overlays.bathingSpot);
 }
 
+let drawbbqArea = (geojsonData) => {
+    L.geoJson(geojsonData, {
+        onEachFeature: (feature, layer) => {
+            layer.bindPopup(feature.properties.LAGE)
+        },
+        pointToLayer: (geoJsonPoint, latlng) => {
+            return L.marker(latlng, {
+                icon: L.icon({
+                    iconUrl: 'icons/grillplatz.png',
+                    iconSize: [39, 39]
+                })
+            })
+        }
+    }).addTo(overlays.bbqArea);
+}
+
 for (let config of OGDWIEN) {
     fetch(config.data)
         .then(response => response.json())
         .then(geojsonData => {
             if (config.title == "Badestellen Standorte Wien") {
                 drawBathingSpot(geojsonData);
+            } else if (config.title == "Grillplätze Standorte Wien") {
+                drawbbqArea(geojsonData);
             }
         })
 }
