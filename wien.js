@@ -8,7 +8,7 @@ let overlays = {
 let map = L.map("map", {
     fullscreenControl: true,
     center: [48.208333, 16.373056],
-    zoom: 13,
+    zoom: 12,
     layers: [
         basemapGray
     ]
