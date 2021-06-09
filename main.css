@@ -4,10 +4,33 @@ h2 {
 
 #map {
     width: 90%;
-    height: 90vh;
+    height: 70vh;
     border: 1px solid gray;
     margin: auto;
 }
+
+body {
+    max-width: 1280px;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header p {
+    text-align: right;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-right: 1em;
+    margin-top: -2em;
+}
+
+header nav img {
+    border-radius: 50%;
+}
+
 
 .temperature-label {
     font-size: 1.25em;
@@ -46,4 +69,21 @@ h2 {
         1px -1px 0 white,
         -1px 1px 0 white,
         1px 1px 0 white;
+}
+
+
+/*Klasse für die Abstände zwischen Icons und Text*/
+
+@media screen and (max-width: 900px) {
+    main {
+        max-width: 90%;
+    }
+}
+
+/*regelt die Darstellung der Seite für bildschirme kleiner als 900px*/
+
+@media screen and (max-width: 1280px) {
+    header img.banner {
+        width: 100vw;
+    }
 }
