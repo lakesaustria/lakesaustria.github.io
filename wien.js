@@ -28,7 +28,8 @@ overlays.bbqArea.addTo(map);
 let drawBathingSpot = (geojsonData) => {
     L.geoJson(geojsonData, {
         onEachFeature: (feature, layer) => {
-            layer.bindPopup(feature.properties.BEZEICHNUNG)
+            layer.bindPopup(`${feature.properties.BEZEICHNUNG} <br>
+            Bezirk: ${feature.properties.BEZIRK}`)
         },
         pointToLayer: (geoJsonPoint, latlng) => {
             return L.marker(latlng, {
@@ -45,7 +46,11 @@ let drawBathingSpot = (geojsonData) => {
 let drawbbqArea = (geojsonData) => {
     L.geoJson(geojsonData, {
         onEachFeature: (feature, layer) => {
-            layer.bindPopup(feature.properties.LAGE)
+            layer.bindPopup(`<strong>Lage: ${feature.properties.LAGE}</strong>
+            <hr>
+            Grillplatz ID: ${feature.properties.GRILLPLATZ_ID} <br>
+            Reservierung notwendig: ${feature.properties.RESERVIERUNG} <br>
+            <a href="${feature.properties.WEBLINK1}">Weitere Info</a>`)
         },
         pointToLayer: (geoJsonPoint, latlng) => {
             return L.marker(latlng, {
