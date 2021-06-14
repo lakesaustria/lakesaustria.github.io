@@ -25,6 +25,10 @@ let layerControl = L.control.layers({
 overlays.bathingSpot.addTo(map);
 overlays.bbqArea.addTo(map);
 
+L.control.scale({
+    imperial: false
+}).addTo(map);
+
 let drawBathingSpot = (geojsonData) => {
     L.geoJson(geojsonData, {
         onEachFeature: (feature, layer) => {
