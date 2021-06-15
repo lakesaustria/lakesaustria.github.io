@@ -3,8 +3,6 @@
 let baselayers = {
     standard: L.tileLayer.provider("BasemapAT.basemap"),
     grau: L.tileLayer.provider("BasemapAT.grau"),
-    terrain: L.tileLayer.provider("BasemapAT.terrain"),
-    surface: L.tileLayer.provider("BasemapAT.surface"),
     highdpi: L.tileLayer.provider("BasemapAT.highdpi"),
     ortho_overlay: L.layerGroup([
         L.tileLayer.provider("BasemapAT.orthofoto"),
@@ -31,15 +29,13 @@ let overlays = {
 let layerControl = L.control.layers({
     "basemap.at Standard": baselayers.standard,
     "basemap.at grau": baselayers.grau,
-    "basemap.at Relief": baselayers.terrain,
-    "basemap.at Oberfläche": baselayers.surface,
     "basemap.at hochauflösend": baselayers.highdpi,
     "basemap.at Orthofoto beschriftet": baselayers.ortho_overlay
 }, {
     "Messstation Seen Österreich": overlays.stations,
     "Wassertemperatur": overlays.waterTemperature,
 }, {
-    collapsed: false
+    collapsed: true
 }).addTo(map);
 
 
@@ -145,7 +141,7 @@ let waterQualityMonitoring = (waterQuality) => {
 //Minimap Plugin
 var miniMap = new L.Control.MiniMap(L.tileLayer.provider("BasemapAT.basemap"), {
     toggleDisplay: true,
-    minimized: false,
+    minimized: true,
 }).addTo(map);
 
 //Massstab fuer Karte
