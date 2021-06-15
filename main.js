@@ -16,7 +16,7 @@ let baselayers = {
 let map = L.map("map", {
     fullscreenControl: true,
     center: [47.59397, 14.12456],
-    zoom: 8,
+    zoom: 7,
     layers: [
         baselayers.grau
     ]
@@ -46,11 +46,12 @@ let layerControl = L.control.layers({
 //Daten aus JSON File auslesen und auf map darstellen
 
 
-let dummyUrl = 'data/badegewaesser_db.json';
+
 
 //Marker auf Karte einzeichnen, Struktur Daten Bundeslaender-Array aus Bundesland-Objekt welches Name Key-Value Pair und Gewaesser-Array aus Badegewasser-Objekten trägt; letzteres enthaelt Infos zum Badegewaesser
 //zwei Loops, um durch die Objekte zu loopen, quasi für jedes Bundesland soll für jedes Badegewässer die Seestation bzw. Koordinate angegebn werden
 //vielleicht geht es eleganter, die zwei for-loops funktionieren aber
+let dummyUrl = 'data/badegewaesser_db.json';
 fetch(dummyUrl)
     .then(response => response.json())
     .then(json => {
