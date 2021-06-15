@@ -1,3 +1,102 @@
+body {
+    max-width: 1280px;
+    margin: auto;
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+header p{
+    text-align: right;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-right: lem;
+    margin-top: -0.2em;
+}
+
+.white,
+.white a:link,
+.white a:visited
+{
+    color: white;
+}
+
+header nav img {
+    border-radius: 50%;
+}
+
+a:link
+a:visited{
+    color: black;
+}
+
+header address{
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+
+main{
+    max-width: 70%;
+    margin: auto;
+}
+
+main p{
+    text-align: justify;
+}
+
+main figure{
+    margin-left: 0;
+    width: 100%;
+}
+
+main figure img{
+    border: 1px solid black;
+}
+
+main ul{
+    list-style-type: circle;
+}
+
+footer .next{
+    float: right;
+}
+
+footer .black{
+    float: left;
+}
+
+footer{
+    padding: lem 0 3em 0;
+
+}
+
+@media screen and (max-width: 900px) {
+    main 
+        max-width: 90%;
+    }
+
+}
+
+@media screen (max-width: 1280px) {
+    header img.banner{
+        width: 100vw;
+    }
+
+
+
+
+
+    
+
+    
+
+
+
+
+
 
 
 
