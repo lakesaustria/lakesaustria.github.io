@@ -1,9 +1,34 @@
+body {
+    max-width: 1280px;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header p {
+    text-align: right;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-right: 1em;
+    margin-top: -2em;
+}
+
+.white,
+.white a:link,
+.white a:visited {
+    color: white;
+}
+
 h2 {
     text-align: center;
 }
 
+main p {
+    text-align: justify;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 #map {
-    width: 90vw;
+    width: 100%;
     height: 90vh;
     border: solid black 1px;
     margin: auto;
