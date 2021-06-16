@@ -2,19 +2,19 @@ const COLORS = {
     temperature: [{
         min: -99,
         max: 5,
-        col: "#3288bd"
+        col: "#4575b4"
     }, {
         min: 5,
         max: 15,
-        col: "#66c2a5"
+        col: "#74add1"
     }, {
         min: 15,
         max: 17.5,
-        col: "#abdda4"
+        col: "#abd9e9"
     }, {
         min: 17.5,
         max: 20,
-        col: "#e6f598"
+        col: "#e0f3f8"
     }, {
         min: 20,
         max: 22.5,
@@ -22,7 +22,7 @@ const COLORS = {
     }, {
         min: 22.5,
         max: 25,
-        col: "#fee08b"
+        col: "#fee090"
     }, {
         min: 25,
         max: 27.5,
@@ -34,6 +34,6 @@ const COLORS = {
     }, {
         min: 30,
         max: 99,
-        col: "#d53e4f"
+        col: "#d73027"
     }]
 }
