@@ -35,7 +35,7 @@ let layerControl = L.control.layers({
     "Messstation Seen Österreich": overlays.stations,
     "Wassertemperatur": overlays.waterTemperature,
 }, {
-    collapsed: true
+    collapsed: false
 }).addTo(map);
 
 
