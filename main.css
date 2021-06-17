@@ -42,6 +42,26 @@ header nav img {
     border-radius: 50%;
 }
 
+footer .next {
+    float: right;
+}
+
+footer .back {
+    float: left;
+}
+
+footer {
+    padding: 1em 0 3em 0;
+}
+
+.marginright3 {
+    margin-right: 0.3em;
+}
+
+.marginleft3 {
+    margin-left: 0.3em;
+}
+
 
 .temperature-label {
     font-size: 1.25em;
